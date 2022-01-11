@@ -20,3 +20,5 @@ A bot written in bash to play Rock, Paper, Scissors
   ./run.sh
   ```
 ### 💻 In Action:
+
+![Screenshot from 2022-01-11 14-07-50](https://user-images.githubusercontent.com/56017960/148908772-6beb90e8-bc70-4150-bc37-543db95953f5.png)
